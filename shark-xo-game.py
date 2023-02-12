@@ -46,7 +46,7 @@ def banner():
     animation(logo)
     print(""" 
 
-           \033[1;37mDeveloper  \033[1;34m: \033[1;31mpranshupathak
+           \033[1;37mDeveloper  \033[1;34m: \033[1;31mayushi-pranshu
            \033[1;37mGithub     \033[1;34m: \033[1;31msincryptshark
            \033[1;37mInstagram  \033[1;34m: \033[1;31m@0891322930""")
 
